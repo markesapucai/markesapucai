@@ -1,21 +1,4 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A passionate front-end developer from Brazil</h3>
-
-- I’m currently working on **Lead Pym**
-
-- 🌱 I’m currently learning **TypeScript & Vue**
-
-- 👨‍💻 All of my projects are available at [https://github.com/markesapucai](https://github.com/markesapucai)
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **marktobusiness113@gmail.com**
-
-- ⚡ Fun fact **I love solve problem**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
