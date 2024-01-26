@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markê</h1>
 <h3 align="center">A great problem solver full-Stack from Brazil</h3>
 <h4 align="center">I work as a freelancer using agile methodologies.</h4>
-
+```typescript
 import { SoftwareDeveloper, Skills } from 'Markê';
 
 class Bio extends SoftwareDeveloper {
@@ -26,7 +26,7 @@ class LearningSkills implements Skills {
   architectures = ['Clean Architeture'];
   methodologies = ['Scrum', 'Kanban'];
 }
-
+```
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
